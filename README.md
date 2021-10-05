@@ -1,0 +1,1 @@
+- show used ram and cpu
