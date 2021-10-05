@@ -1,1 +1,2 @@
 - show used ram and cpu
+- npm install --save-dev electron
