@@ -1,0 +1,12 @@
+body {
+    padding: 20px;
+  }
+
+#cpu, #ram {
+    width: 200px;
+    display: inline-flex;
+}
+
+.ui.statistics> .statistic {
+    margin-right: 0;
+}

@@ -28,7 +28,8 @@
     "electron": "^15.1.1"
   },
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.0"
+    "electron-squirrel-startup": "^1.0.0",
+    "os-utils": "^0.0.14"
   },
   "config": {
     "forge": {
